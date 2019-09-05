@@ -12,4 +12,5 @@
 
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|   9/5  | Chengyuan | free discuss |  free discuss | [No Slides]()
+|   9/5  | Chengyuan | free discuss |  free discuss | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/09/09-05-Chengyuan-slides-free-discussion.pptx)
+
