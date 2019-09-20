@@ -22,4 +22,4 @@
 
 |    Date    | Presenter | Links |
 |------------|-----------|-------|
-|   9/5  | Kefei  | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/tree/master/files/Conference_abstract)
+|   9/5  | Kefei  | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/tree/master/files/Conference_abstract/Conference_abstract.md)
