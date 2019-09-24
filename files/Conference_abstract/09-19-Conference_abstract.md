@@ -55,7 +55,7 @@
 >3. 基于冗余信息的RDMA包恢复
 >4. MP-RDMA的数据包调度算法：在RDMA网卡上实现数据包调度器，进一步减小收端的buffer占用
 
-## [王泽楠](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/09/09-19-Zenan-Hieff.pptx)
+## [王泽南](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/09/09-19-Zenan-Hieff.pptx)
 
 ### Background & Motivation
 
