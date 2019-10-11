@@ -18,6 +18,12 @@
 |   9/19  | Zenan | Hieff & NFV introdunction |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/09/09-19-Zenan-Hieff.pptx)
 |   9/19  | Chengyuan | RDMA over Commodity Ethernet at Scale |  Sigcomm 2016 | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/09/09-19-Chengyuan-RDMA_over_Commodity_Ethernet_at_Scale.pptx)
 
+### October
+
+|    Date    | Presenter | Topic | Source | Links |
+|------------|-----------|-------|--------|-------|
+|   10/10 | Jiaming | RDMA |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-10-Jiaming-RDMA组会.pptx)
+
 ### Conference Abstract
 
 |    Date    | Presenter | Links |
