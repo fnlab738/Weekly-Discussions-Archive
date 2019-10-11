@@ -2,8 +2,6 @@
 
 ## [黄程远](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/09/09-19-Chengyuan-RDMA_over_Commodity_Ethernet_at_Scale.pptx)
 
-### RDMA
-
 ### 传统 TCP/IP 协议的问题
 
 > 1. TCP的尾部延时过大
@@ -93,7 +91,7 @@
 
 >1. 可靠性机制：故障检测，故障检测预测，故障诊断定位
 >2. 故障恢复技术展望：可靠性的评估和计算；联合优化工作和备份SFC的拓扑设计和映射；备份资源间的共享机制；动态服务需求下的备份资源设计
->3. 更多详细查看 虞红芳-网络功能虚拟化基础设施的可靠性问题.pptx 
+>3. 更多详细查看 虞红芳-网络功能虚拟化基础设施的可靠性问题.pptx
 
 ### NFV可关注的项目 -- LeanNFV & Nefeli
 
