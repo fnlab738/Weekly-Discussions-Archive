@@ -12,7 +12,7 @@
 
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|   10/31 | Qian | RDMA |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-31-Liqian-ICC.pptx)
+|   10/31 | Qian | Data-driven Routing Optimization |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-31-Liqian-ICC.pptx)
 |   10/10 | Jiaming | RDMA |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-10-Jiaming-RDMA组会.pptx)
 |   10/10 | Yuanyao | VNF scaling |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-10-Yuanyao-VNF-scaling-Lyapunov-optimization.pptx)
 
