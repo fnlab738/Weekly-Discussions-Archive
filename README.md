@@ -8,13 +8,12 @@
 
 ## 2019
 
-### October
+### November
 
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|   10/31 | Qian | Data-driven Routing Optimization |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-31-Liqian-ICC.pptx)
-|   10/10 | Jiaming | RDMA |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-10-Jiaming-RDMA组会.pptx)
-|   10/10 | Yuanyao | VNF scaling |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-10-Yuanyao-VNF-scaling-Lyapunov-optimization.pptx)
+|   11/14 | Yuanyao | scaling |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/11/11-14-Yuanyao-scaling.pptx)
+|   11/14 | Kai | GNN |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/11/11-14-ZhangKai-GNNppt.pptx)
 
 ### September
 
@@ -26,6 +25,13 @@
 |   9/5  | Kefei | experience sharing |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/09/09-05-Kefei-experience-sharing.pptx)
 |   9/5  | Jiaming | infocom experience sharing |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/09/09-05-Jiaming-infocom-experience-sharing.pptx)
 
+### October
+
+|    Date    | Presenter | Topic | Source | Links |
+|------------|-----------|-------|--------|-------|
+|   10/31 | Qian | Data-driven Routing Optimization |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-31-Liqian-ICC.pptx)
+|   10/10 | Jiaming | RDMA |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-10-Jiaming-RDMA组会.pptx)
+|   10/10 | Yuanyao | VNF scaling |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/10/10-10-Yuanyao-VNF-scaling-Lyapunov-optimization.pptx)
 ## Conference Abstract
 
 |    Date    | Presenter | Links |
