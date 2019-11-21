@@ -36,6 +36,8 @@
 
 |    Date    | Presenter | Links |
 |------------|-----------|-------|
+|   11/14  | Kefei  | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/tree/master/files/Conference_abstract/11-14-Conference_abstract.md)
+|   10/31  | Kefei  | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/tree/master/files/Conference_abstract/10-31-Conference_abstract.md)
 |   10/10  | Kefei  | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/tree/master/files/Conference_abstract/10-10-Conference_abstract.md)
 |   9/19  | Kefei  | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/tree/master/files/Conference_abstract/09-19-Conference_abstract.md)
 |   9/5  | Kefei  | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/tree/master/files/Conference_abstract/09-05-Conference_abstract.md)
