@@ -11,7 +11,7 @@
 ### December
 |    Date    | Presenter | Topic | Source | Links |
 |------------|-----------|-------|--------|-------|
-|   12/19 | Dehui | Janus |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/12/12-19-WeiDeui-Janus论文汇报.pptx.pptx)
+|   12/19 | Dehui | Janus |  free discussion | [Slides](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/files/2019/12/12-19-WeiDeui-Janus%E8%AE%BA%E6%96%87%E6%B1%87%E6%8A%A5.pptx)
 
 ### November
 
