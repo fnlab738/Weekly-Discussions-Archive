@@ -5,12 +5,6 @@
 > This is the all members' namelist [`order2`](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/namelist.md)
 
 ---
-## 2021
-
-### May
-|    Date    | Presenter | Topic | Source | Links |
-|------------|-----------|-------|--------|-------|
-|   5/20 | zhangyuan | flightplan |  free discussion | [Slides]()
 
 ## 2019
 
